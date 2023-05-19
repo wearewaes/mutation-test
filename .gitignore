@@ -1,0 +1,9 @@
+/target/classes/application.properties
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/sonarlint/issuestore/index.pb
+/.idea/sonarlint/securityhotspotstore/index.pb
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/target/classes/com/wearewaes/mutationtest/TimeConversion.class
+/.idea/vcs.xml
