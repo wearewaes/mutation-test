@@ -3,7 +3,7 @@
 I wrote an article on medium explain a bit more about what is mutation test
 [Read the article: What is a Mutation Test](https://medium.com/wearewaes/the-mutation-test-7fe94ee2e5e8)
 
-##About this Application:
+## About this Application:
 
 This is just a demo on how to run the mutation test
 
