@@ -33,10 +33,10 @@
                 <version>1.11.3</version>
                 <configuration>
                     <targetClasses>
-                        <param>com.neewrobert.mutationtest.TimeConversion</param>
+                        <param>com.wearewaes.mutationtest.TimeConversion</param>
                     </targetClasses>
                     <targetTests>
-                        <param>com.neewrobert.mutationtest.TimeConversionTest</param>
+                        <param>com.wearewaes.mutationtest.TimeConversionTest</param>
                     </targetTests>
                 </configuration>
             </plugin>
